@@ -1,1 +1,1 @@
-This is a repository of Python codes used in our manuscript. DOS_VARIATION has the code corresponding to figure-6, while the TEBD_BENCHMARK has the code corresponding to figure-2. 
+This is a repository of Python codes used in our manuscript. DOS_VARIATION has the code corresponding to figure-6, while the TEBD_BENCHMARK has the code corresponding to figure-2. The parameter file included in each directory may be modified as per need. The parameter, idos, corresponds to the hybridization function: idos=1 is for Gaussian, 2 is for semi-elliptic and 3 is for flat.
